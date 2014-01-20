@@ -25,4 +25,13 @@
 	},
 	"name": "Pro-Care Ambulance Services",
 	"phone": "(888) 907-7622"
+},{
+	"location": {
+		"stateCode": "NY",
+		"latitude": 40.81329,
+		"longitude": -73.966248,
+		"displayAddress": "2647 Broadway, New York NY 10025"
+	},
+	"name": "Papi's Ambulette Services",
+	"phone": "(212) 662-4094"
 }]
